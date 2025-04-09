@@ -3,7 +3,6 @@ A simple and powerful logging utility that enables viewing Flutter logs in Andro
 <br><br>
 
 ## 📝 Overview
-
 Flutter development has historically presented challenges when it comes to log visibility within Android's native debugging ecosystem. This advanced logging utility addresses this critical pain point by establishing a bidirectional communication channel between your Flutter application and Android's native Logcat, enabling comprehensive log monitoring with rich contextual information.
 <br><br>
 ## 🚀 Installation
@@ -89,12 +88,12 @@ LogCats.warning("API rate limit threshold approaching (80%)");
 // For critical error reporting
 LogCats.error("Connection to authentication service failed: Timeout exceeded");
 ```
-<br><br>
 ### Runtime Output
 
 When properly integrated, your Flutter application logs will appear in Android Studio's Logcat console with comprehensive metadata and contextual information:
 <br>
 <img src="https://private-user-images.githubusercontent.com/10841533/431610689-5d2ea71f-be84-412d-9740-4854fadb5081.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxNTc0MDUsIm5iZiI6MTc0NDE1NzEwNSwicGF0aCI6Ii8xMDg0MTUzMy80MzE2MTA2ODktNWQyZWE3MWYtYmU4NC00MTJkLTk3NDAtNDg1NGZhZGI1MDgxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA5VDAwMDUwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZhMDc0MTI1NzM4ZDIyOWM4ZDQ5Y2Q0YzRmNTYwNzliYzMwODM1Mzg2MWIzZTUzYWUzNDUwNDBkYzU0OGJiODAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.ZIFKhcPN5lmBIqW79GAu4EeI0OGwwv2UciKikQak1bQ" width="1000" height="300"/>
+
 <br><br>
 ## ✨ Features
 
@@ -106,4 +105,4 @@ When properly integrated, your Flutter application logs will appear in Android S
 
 <br><br>
 ## 내용 관련
-: 본 문서는 의도적으로 한국어가 아닌 영어로 작성되었습니다. 이는 전 세계 다양한 개발자들이 이 로깅 유틸리티를 쉽게 사용할 수 있도록 하기 위함입니다.
+: 본 문서는 의도적으로 한국어가 아닌 영어로 작성되었습니다.<br> 이는 전 세계 다양한 개발자들이 이 로깅 유틸리티를 쉽게 사용할 수 있도록 하기 위함입니다.
