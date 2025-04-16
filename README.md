@@ -92,7 +92,7 @@ LogCats.error("Connection to authentication service failed: Timeout exceeded");
 
 When properly integrated, your Flutter application logs will appear in Android Studio's Logcat console with comprehensive metadata and contextual information:
 <br>
-<img src="https://i.imgur.com/W8w4LVt.png" width="1000" height="300"/>
+<img src="https://i.imgur.com/W8w4LVt.png" width="1000" height="260"/>
 
 <br><br>
 ## ✨ Features
